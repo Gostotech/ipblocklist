@@ -1,6 +1,6 @@
 ## IP Blocklist
 
-![GitHub Repo stars](https://img.shields.io/github/stars/bitwire-it/ipblocklist)
+
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/Matis7)
 
